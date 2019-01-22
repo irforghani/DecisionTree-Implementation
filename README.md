@@ -6,5 +6,7 @@ mushroom data set:
 https://archive.ics.uci.edu/ml/machine-learning-databases/mushroom/
 
 Node Name Syntax in Trees:
+
+
 Feature Name or Label Name : Parent Transition : Node Number
 
