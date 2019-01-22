@@ -6,6 +6,8 @@ Test on:
 Part1 : Poisonous Mushroom Detection
 ![alt data](http://s9.picofile.com/file/8349794200/mushroom_generated_decision_tree.png)
 
+
+.
 Part 2: Insect classification
 ![alt data](http://s8.picofile.com/file/8349794242/Insect_generated_decision_tree.png)
 
